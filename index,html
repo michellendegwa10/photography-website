@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Photography-website</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <header>
+        <h1>MICHELLES PHOTOGRAPHY WEBSITE</h1>
+        <h2>CULTURAL VIEW</h2>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="Local cultures">Local Cultures</a></li>
+            <li><a href="Internatinal cultures">International Cultures</a></li>
+            <li><a href="About">About</a></li>
+            <li><a href="Contact me">contact me</a></li>
+        </ul>
+    </nav>
+    <h3>Biography</h3>
+    <div>
+        <p>This is a short point of view on the different culturesaround the world .We have roughly 44 tribes living in
+            kenya at the momemnt
+            in th 47 counties of our country.We have roughly 3814 cultures all around the world .The best part about all
+            this is that we get to experience
+            cultures in there different forms and learn about it and there origin .Do to this we get to learn how to
+            respect the different culture so as to live in harmony with one another.
+            We have both local and international cultures.</p>
+    </div>
+    <img src="africa.jpeg" alt="africa">
+    <img src="a women.jpeg" alt="black woman">
+    <img src="black.jpeg" alt="african ladies">
+    <div>
+        <h3>Local Cultures</h3>
+        <p>The different cultures of Kenya are separated in the 47 counties of Kenya.They live in the different regions
+            of Western,Central,North central,Rift Valley and the costal reagions</p>
+        <ol>
+            <li>The Maasai</li>
+            <li>The Kikuyu</li>
+            <li>The Lughya</li>
+        </ol>
+    </div>
+    <section>
+        <h4>The Maasai</h4>
+        <p>The Maasai tribe is known for there unique ornment and style of dressing.They are also known for there large
+            herds of cattle
+            They are site for tourist attraction .They live in Narok where Maasai Mara Game Reserve is located and
+            tourists often came to
+            see the wilderbeast cross the Mara River to go to Serengeti in Tanzania
+        </p>
+        <img src="maasai pics.jpeg" alt="">
+        <img src="msppl.jpeg" alt="">
+        <img src="maasaippl.jpeg" alt="">
+        <img src="ornaments.jpeg" alt="">
+        <img src="ornaa.jpeg" alt="">
+    </section>
+    <section>
+        <h4>The Kikuyu</h4>
+        <img src="kikuyu.jpeg" alt="">
+        <img src="kikspl.jpeg" alt="">
+        <img src="kikuyu pics.jpeg" alt="">
+        <p>The Kikuyu tribe are roughly the largest tribe in central Kenya and are known for there great business skills
+            and there leading agricultural produce which are both used locally and internationally </p>
+        <ul>
+            <li>Flowers</li>
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Potatoes</li>
+        </ul>
+        <img src="f.jpeg" alt="">
+        <img src="c.jpeg" alt="">
+        <img src="t.jpeg" alt="">
+        <img src="p.jpeg" alt="">
+    </section>
+    <section>
+        <h4>The Lughya</h4>
+        <p>The lughya tribe is known for there cultural and linguistic diversity and lets not forget there strong
+            agricultursal roots for farming.There are also known for there love of chickens and ugali.
+        </p>
+        <ul>
+            <li>Surgacane</li>
+            <li>Maize</li>
+            <li>Chicken</li>
+            <li>Ugali</li>
+        </ul>
+        <img src="s.jpeg" alt="">
+        <img src="ma.jpeg" alt="">
+        <img src="chi.jpeg" alt="">
+        <img src="u.jpeg" alt="">
+    </section>
+    <h3>Internatinal Cultures</h3>
+    <p>We have various cultures all around the 7 continents of the world.In total we are 3814
+        cultures in the world.the diversness in the cultures educates us on there beliefs and religious setting
+        Thus helping us to co-exist with one another due to the knowledge we have gathered from interacting with
+        them.
+    </p>
+    <ol>
+        <li>The Indians</li>
+        <li>The Germans</li>
+        <li>The Asians</li>
+    </ol>
+    <section>
+        <h4>The Indians</h4>
+        <p>It has over 1.4 billion people thus being the most populous country in the world.India is incredibly
+            diverse,
+            with over 2,000 ethnic groups, hundreds of languages and a wide blend of religions</p>
+        <ol>
+            <li>Hinduism</li>
+            <li> Islam</li>
+            <li> Christianity</li>
+            <li>Buddhism</li>
+        </ol>
+        <img src="i.jpeg" alt="">
+        <img src="in.jpeg" alt="">
+        <img src="ind.jpeg" alt="">
+        <img src="india.jpeg" alt="">
+    </section>
+    <section>
+        <h4>The Germans</h4>
+        <p>German is the most spoken language in European countries.Germany is also known fo brewing beers.
+            it has over 1500 breweries.It is also the leading country in green energy public transport and recycling.
+            They are also known for there friendly nature.
+        </p>
+        <ol>
+            <img src="g.jpeg" alt="">
+            <img src="ger.jpeg" alt="">
+            <img src="germ.jpeg" alt="">
+            <img src="germ.jpeg" alt="">
+            <img src="germa.jpeg" alt="" srcset="">
+        </ol>
+    </section>
+    <section>
+        <h4>The Asians</h4>
+        <p>The Asians are known in different regions for its unique art,music,architecture,traditions and languages.
+            Asian cultures place a strong value on education, hard work, and academic achievement and often excel in
+            science, math, and technology fields.
+            it aslo known for its latest fashion trends influencing most regions of the world.it is aso known for its
+            advanced technology.</p>
+        <ol>
+            <img src="asians.jpeg" alt="">
+            <img src="a.jpeg" alt="">
+            <img src="as.jpeg" alt="">
+            <img src="asian pics.jpeg" alt="">
+            <img src="asi.jpeg" alt="">
+        </ol>
+    </section>
+    <section>
+        <h3><em>About</em></h3>
+        <p>The beauty of different cultures.This is my point of view on different cultures all around the world and as we continue to digress along this
+            path we should respect and learn peoples culture so as to continue co-existing with one another in harmony
+            due to diverse culture not forgrtting religions.We shouldn't judge people from there <strong>religion or even ethnicity</strong> 
+            .We should learn to embrace one another for we all have different backgrounds.
+            I have a <strong>deep love</strong>for the different cultures and even dishes from different parts of the
+            world.Not forgetting that we have so many <strong>interracial couple</strong> that never learnt the cultures of they partners
+            and this is passed of as ignorance </p>
+    </section>
+    <section>
+        <h3><em>Contact Me</em></h3>
+        <p>You can find me on all social media platforms under @michelle_ndegwa .My gmail is michellendegwa123@gamil and my
+            contact is 0798756453 </p>
+            <p><strong><em>THANK YOU <3</em></strong></p>
+    </section>
+    <footer>
+       <p>&copy;copyright 2025</p>
+    </footer>
+
+</body>
+
+</html>
